@@ -1,0 +1,10 @@
+@article{REPO108,
+    author = "Kosasih, Edward Elson and Brintrup, Alexandra",
+    journal = "IFAC-PapersOnLine",
+    number = "10",
+    pages = "1539--1544",
+    publisher = "Elsevier",
+    title = "{Reinforcement Learning Provides a Flexible Approach for Realistic Supply Chain Safety Stock Optimisation}",
+    volume = "55",
+    year = "2022"
+}
